@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <title>Harry Potter and the Philosopher's Stone</title>
+        <author>J.K. Rowling</author>
+        <genre>Fantasy</genre>
+        <publication_year>1997</publication_year>
+    </book>
+    <book>
+        <title>The Catcher in the Rye</title>
+        <author>J.D. Salinger</author>
+        <genre>Coming-of-age fiction</genre>
+        <publication_year>1951</publication_year>
+    </book>
+    <book>
+        <title>To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+        <genre>Southern Gothic</genre>
+        <publication_year>1960</publication_year>
+    </book>
+</library>
